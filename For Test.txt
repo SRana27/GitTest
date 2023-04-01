@@ -4,8 +4,7 @@ Another test command 2nd commit.
 
 Test form another PC.
 
-<<<<<<< HEAD
 Commit from office PC 2nd time.
-=======
+
 Commit from local pc.
->>>>>>> a9d1fa78153b809604f6473a7357c269b0885217
+
