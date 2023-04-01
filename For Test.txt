@@ -10,6 +10,6 @@ Commit from local pc.
 
 Another commit from local pc.
 
-
+Commit for conflict.
 
 
